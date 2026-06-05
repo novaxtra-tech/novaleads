@@ -1,5 +1,5 @@
-# novaleads
-NovaLeads 是一款 AI 驱动的 B2B 销售线索智能平台，它通过多源交叉验证和全程可追溯的智能体工作流，自动完成整个出站销售流程——发现、验证、丰富并生成本地化个性化内容，为您提供可直接开发的高质量潜在客户。NovaLeads is an AI-powered B2B sales lead intelligence platform
+# [NovaLeads](https://www.novaxtra.com/)
+[NovaLeads](https://www.novaxtra.com/) 是一款 AI 驱动的 B2B 销售线索智能平台，它通过多源交叉验证和全程可追溯的智能体工作流，自动完成整个出站销售流程——发现、验证、丰富并生成本地化个性化内容，为您提供可直接开发的高质量潜在客户。NovaLeads is an AI-powered B2B sales lead intelligence platform
 
 **NovaXtra / 星辰智贸**
 
@@ -44,3 +44,11 @@ NovaLeads 是一款 AI 驱动的 B2B 销售线索智能平台，它通过多源�
 *   **Enhance Quality**: Delivers high-intent, actionable sales leads through intelligent verification and deep matching.
 *   **Optimize Process**: Standardizes and streamlines personalized outreach preparation and collaborative review, accelerating the journey from lead to inquiry.
 *   **Ensure Control & Compliance**: Provides full-process data traceability and auditability, helping businesses build a compliant and reliable overseas sales development system.
+
+
+Website: https://www.novaxtra.com/
+Blog: https://www.novaxtra.com/blog/
+Product：
+ - [NovaLeads](https://www.novaxtra.com/leads/)
+ - [NovaKeywords](https://www.novaxtra.com/keywords/)
+

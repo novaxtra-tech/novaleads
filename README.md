@@ -47,8 +47,10 @@
 
 
 Website: https://www.novaxtra.com/
+
 Blog: https://www.novaxtra.com/blog/
-Product：
+
+Product:
  - [NovaLeads](https://www.novaxtra.com/leads/)
  - [NovaKeywords](https://www.novaxtra.com/keywords/)
 
